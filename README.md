@@ -14,3 +14,5 @@ Click the appropriate button to make each player's score go up. There should onl
 You can call a function after setState if you want it to run after the state has been set.
 
 ```setState({something: something}, ()=>something);```
+<hr>
+0.5 points. The area that should tell which player is last is not working and the buttons are not independently working.
